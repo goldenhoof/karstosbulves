@@ -1,0 +1,35 @@
+#juosta1{
+  background: #ff9900;
+}
+
+#juosta2{
+  margin-bottom: 50px;
+}
+
+#kazlas{
+  float: left;
+}
+#bulves{
+  color: white;
+  height: 129px;
+  text-align: center;
+  padding-right: 200px;
+  padding-top: 40px;
+}
+body{
+  background: #f7f7f7;
+}
+.navbar-custom{
+  margin: 0px;
+  background-color: #205a90;
+}
+h1{
+  margin: 0px;
+}
+.navbar-custom a{
+  color: white;
+}
+
+.navbar-right{
+  margin: auto;
+}
